@@ -12,8 +12,6 @@ This isn't as gruesome as the real thing, but does have the potential to fuck up
 DO NOT RUN IT IF YOU CANNOT TAKE A JOKE.
 DO NOT RUN BEFORE SAVING YOUR WORK.
 
-I take no responsibility at all for any and all damages caused by your stupidity.
-
 That being said. It is a small program. The source code is almost the size of the program itself.
 It is written in MASM and is somewhat commented.
 
