@@ -1,6 +1,3 @@
-Copyright Liquid Unicorn Productions, 2013
-Coded by Jennifer "Ryn Inaba" Stears
-
 The premmise of the game is simple
 
 1) Load a bullet into a single chamber.
